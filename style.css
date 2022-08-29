@@ -47,6 +47,7 @@ body {
   color: red;
   text-transform: uppercase;
   margin-top: 20px;
+  font-weight: 600;
 }
 .button-area button {
   background-color: #262626;
