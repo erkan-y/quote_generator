@@ -61,3 +61,12 @@ body {
 .button-area button:active {
   background-color: lightblue;
 }
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 12px;
+  }
+  .container {
+    width: 400px;
+    height: auto;
+  }
+}
