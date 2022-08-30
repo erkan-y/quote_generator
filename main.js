@@ -22,20 +22,20 @@ const quotes = [
     person: "M. Kemal Atatürk",
   },
   {
+    quote: "The feature is in the skies. ",
+    person: "M. Kemal Atatürk",
+  },
+  {
+    quote: "Unless a nation's life faces peril, war is murder.",
+    person: "M. Kemal Atatürk",
+  },
+  {
+    quote: "Peace at Home, Peace in the World",
+    person: "M. Kemal Atatürk",
+  },
+  {
     quote:
-      "The weak can never forgive. Forgiveness is the attribute of the strong. ",
-    person: "M. Kemal Atatürk",
-  },
-  {
-    quote: "The biggest battle is the war against ignorance.",
-    person: "M. Kemal Atatürk",
-  },
-  {
-    quote: "Peace at Home, Peace in the World",
-    person: "M. Kemal Atatürk",
-  },
-  {
-    quote: "Peace at Home, Peace in the World",
+      "Science is the most reliable guide for civilization, for life, for success in the world. Searching a guide other than the science is meaning carelessness, ignorance and heresy.",
     person: "M. Kemal Atatürk",
   },
   {
